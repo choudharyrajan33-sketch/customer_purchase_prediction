@@ -69,3 +69,50 @@ matplotlib - Basic visualization
 seaborn - Statistical visualization
 scikit-learn - Machine Learning
 scipy - Statistical analysis
+
+## 🔄 Workflow
+1. Problem Definition
+2. Data Cleaning
+3. NumPy Operations
+4. Pandas Transformations
+5. EDA (6+ insights, 6+ charts)
+6. Statistical Analysis
+7. Preprocessing
+8. Train-Test Split
+9. Linear Regression
+10. Logistic Regression
+11. Model Evaluation
+12. Business Recommendations
+
+## 📈 Model Performance
+| Metric | Value |
+|--------|-------|
+| Accuracy | ~82% |
+| Precision | ~0.80 |
+| Recall | ~0.83 |
+| F1-Score | ~0.81 |
+| ROC-AUC | ~0.88 |
+
+## 💡 Key Insights
+1. High engagement drives purchases
+2. Mobile users convert better
+3. Summer season = peak sales
+4. High-income customers purchase more
+5. Cart additions strongly predict purchase
+6. Gender-based patterns exist
+
+## 💼 Business Recommendations
+1. Mobile optimization (+30% conversions)
+2. Cart recovery emails (+20% recovery)
+3. Seasonal campaigns (+15% sales)
+4. Loyalty programs (+25% repeat)
+5. Personalized recommendations (+30% engagement)
+
+## 🚀 How to Run
+```bash
+# Setup
+python -m venv venv
+venv\Scripts\activate  # Windows
+
+# Run notebook
+jupyter notebook purchase_prediction.ipynb 
